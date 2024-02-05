@@ -1,20 +1,33 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MATLAB, Power BI, R Studio
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- M.S, Sustainable Energy Engineering	| Technical University of Denmark, Copenhagen (_February 2023_)	 			        		
+- B.S., Mechanical Engineering | University of Applied Sciences in Saarland, Germany (_June 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Offshore Wind Data Analyst @ [Sea Impact](https://sea-impact.com/) (_February 2023 - Present_)**
+Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intelligence platform for offshore wind, providing key benchmarks on installation and maintenance on floating & bottom-fixed wind farms, based on AIS signals.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developing geospatial algorithms (GIS) to accurately detect the activities of vessels active in the offshore wind industry using AIS signals.
+- Establishing, compiling and managing several data sets used as input to our analyses using complex SQL, PostGIS and Python languages.
+- Visualizing results in PowerBI through DAX language and accurately presenting them for clients.
+- Consulting and delivering tailored requested reports to clients (Bain & Company, BCG, Vestas, Siemens Gamesa, Vineyard Wind, Equis, Skyborn...)
+- Supporting the marketing strategy of the company
+- Supporting the overall business strategy of the company
+- Establishing initial client contacts
+
+**Green Energy Support Engineer @ United Nations Development Programme (_July 2022 - January 2023_)**
+- Managing up to 13 Solar hybrid energy projects and 6 E-Mobility projects simultaneously, all around the world, covering all key phases of a energy project implementation (site assessment, RfQ, design, procurement, installation, commissioning, O&M...)
+- Designing an optimised renewable energy solution (solar + battery + low emission-grid) and deciding upon optimal location for solar panel installation
+- Analysing and estimating key economic aspects such as NPV, LCoE, annual cash flows...
+- Drafting business cases for renewable energy solutions (solar hybrid systems, battery, E-Mobility)
+- Assisting during the installation of energy monitoring devices and renewable energy solutions in UNDP and FAO country offices worldwide.
+- Optimising usage of diesel generators in UNDP and FAO country offices worldwide.
+- Providing guidelines on energy efficient solutions to UNDP country offices worldwide.
+- Procuring green energy solution equipment.
+- Supporting daily monitoring and operation of already installed renewable solutions. Assisting the maintenance and operation of these devices.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
