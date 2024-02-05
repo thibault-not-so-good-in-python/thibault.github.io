@@ -1,6 +1,8 @@
 /* Reset some default browser styles */
 body, h1, h2, p, u1, li {
   margin: 0;
+  background: pink;
+  text-align: center;
   padding: 0;
 }
 
