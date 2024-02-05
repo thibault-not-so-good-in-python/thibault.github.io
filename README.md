@@ -1,6 +1,10 @@
-# Data Scientist
+# Welcome!
+
+This website was created using HTML, CSS, and JavaScript, hosted on GitHub.
 
 #### Technical Skills: Python, SQL, MATLAB, Power BI, R Studio
+
+## About Me
 
 ## Education					       		
 - M.S, Sustainable Energy Engineering	| Technical University of Denmark, Copenhagen (_February 2023_)	 			        		
