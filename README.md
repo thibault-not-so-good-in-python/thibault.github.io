@@ -19,6 +19,7 @@ Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intel
 - Supporting the marketing strategy of the company
 - Supporting the overall business strategy of the company
 - Establishing initial client contacts
+- Managing the [Sea Impact Offshore Wind Map](https://sea-impact.com/offshore-wind-map/) through GIS
 
 **Green Energy Support Engineer @ United Nations Development Programme (_July 2022 - January 2023_)**
 
