@@ -6,9 +6,12 @@ This website was created using HTML, CSS, and JavaScript, hosted on GitHub.
 
 ## About Me
 
-## Education					       		
-- M.S, Sustainable Energy Engineering	| Technical University of Denmark, Copenhagen (_February 2023_)	 			        		
-- B.S., Mechanical Engineering | University of Applied Sciences in Saarland, Germany (_June 2019_)
+## Education					    
+
+| Degree | Description |
+| --- | --- |
+| M.S, Sustainable Energy Engineering | Technical University of Denmark, Copenhagen (_February 2023_)	 |
+| B.S., Mechanical Engineering | University of Applied Sciences in Saarland, Germany (_June 2019_) |
 
 
 ## Work Experience
