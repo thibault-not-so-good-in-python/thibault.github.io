@@ -39,10 +39,10 @@ Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intel
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### XXX
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### XXX
 
 
 ## Publications
