@@ -2,7 +2,7 @@
 
 This website was created using HTML, CSS, and JavaScript, hosted on GitHub.
 
-#### Technical Skills: Python, SQL, MATLAB, Power BI, R Studio
+#### Technical Skills: Python, SQL, MATLAB, Power BI, GIS, Excel, PowerPoint, Word, SharePoint
 
 ## About Me
 
