@@ -15,7 +15,12 @@ This website was created using HTML, CSS, and JavaScript, hosted on GitHub.
 
 
 ## Work Experience
-**Offshore Wind Data Analyst @ [Sea Impact](https://sea-impact.com/) (_February 2023 - Present_)**
+**Offshore Wind Data Analyst @ [Sea Impact](https://sea-impact.com/) (_February 2023 - Present_)** 
+
+<img src="https://github.com/thibaultvhg/portfolio.io/blob/main/assets/img/Sea-Impact-logo.png" width="200">
+
+
+
 
 Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intelligence platform for offshore wind, providing key benchmarks on installation and maintenance on floating & bottom-fixed wind farms, based on AIS signals.
 
