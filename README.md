@@ -15,11 +15,11 @@ This website was created using HTML, CSS, and JavaScript, hosted on GitHub.
 
 
 ## Work Experience
+---
+
 **Offshore Wind Data Analyst @ [Sea Impact](https://sea-impact.com/) (_February 2023 - Present_)** 
 
-<img width="250" src="assets/img/Sea-Impact-logo.png"></img>
-
-
+<img width="200" src="assets/img/Sea-Impact-logo.png">
 
 Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intelligence platform for offshore wind, providing key benchmarks on installation and maintenance on floating & bottom-fixed wind farms, based on AIS signals.
 
@@ -32,7 +32,11 @@ Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intel
 - Establishing initial client contacts
 - Managing the [Sea Impact Offshore Wind Map](https://sea-impact.com/offshore-wind-map/) through GIS
 
+---
+
 **Green Energy Support Engineer @ United Nations Development Programme (_July 2022 - January 2023_)**
+
+<img width="50" src="assets/img/UNDP_logo.svg.png">
 
 - Managing up to 13 Solar hybrid energy projects and 6 E-Mobility projects simultaneously, all around the world, covering all key phases of a energy project implementation (site assessment, RfQ, design, procurement, installation, commissioning, O&M...)
 - Designing an optimised renewable energy solution (solar + battery + low emission-grid) and deciding upon optimal location for solar panel installation
@@ -43,6 +47,20 @@ Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intel
 - Providing guidelines on energy efficient solutions to UNDP country offices worldwide.
 - Procuring green energy solution equipment.
 - Supporting daily monitoring and operation of already installed renewable solutions. Assisting the maintenance and operation of these devices.
+
+---
+
+**Global Sustainability Student Assistant @ VELUX (_June 2021 - July 2022_)**
+
+<img width="175" src="assets/img/2560px-Velux_logo.svg.png">
+
+- Supporting the group with global corporate sustainability strategy agenda by analyzing and implementing low-carbon solutions for VELUX offices worldwide
+- Support in the Group's Sustainability Strategy 2030 and Lifetime Carbon Neutral program execution within the Sustainability team
+- Assessing sustainable and low-carbon initiatives worldwide and collecting data
+- Assessing sustainability policies (ensuring environmentally friendly CSR practices are compliant with regulations and climate)
+- Support in ESG reporting
+- Support and co-developer of the VELUX Sustainability Report 2021
+- GHG emissions inventory
 
 
 ## Projects
