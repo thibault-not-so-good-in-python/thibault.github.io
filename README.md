@@ -62,6 +62,7 @@ Sea Impact is a joint venture between LAUTEC and PEAK Wind and is a market intel
 - Support and co-developer of the VELUX Sustainability Report 2021
 - GHG emissions inventory
 
+---
 
 ## Projects
 ### Mapping my Train Routes
@@ -77,6 +78,6 @@ The startup was founded in 2022 by Danilo Paciotti and myself, with the goal of 
 
 
 
-
+---
 ## Publications
 
